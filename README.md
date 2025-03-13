@@ -28,8 +28,8 @@ These games provide a fun way to explore Python's Turtle graphics while reinforc
 2. Avoid getting hit by the cars.
 3. Each successful crossing increases the game difficulty.
 
-![Turtle-1](Turtle_Crossing_Game/Turtle-1.png)
-![Turtle-2](Turtle_Crossing_Game/Turtle-2.png)  
+![Turtle-1](Images/Turtle-1.png)
+![Turtle-2](Images/Turtle-2.png)  
 
 #### Customization
 - To adjust the speed increment of the traffic, modify the `MOVE_INCREMENT = 10` constant in the `CarManager` class.
@@ -49,8 +49,8 @@ These games provide a fun way to explore Python's Turtle graphics while reinforc
 2. Eat the food to increase length and score points.
 3. Avoid colliding with walls or the snake's own body.
 
-![Snake-1](Snake_Game/Snake-1.png)
-![Snake-2](Snake_Game/Snake-2.png)
+![Snake-1](Images/Snake-1.png)
+![Snake-2](Images/Snake-2.png)
 
 #### Customization
 - Modify the snake speed in the `move()` method inside `Snake.py`.
@@ -71,7 +71,7 @@ These games provide a fun way to explore Python's Turtle graphics while reinforc
 3. Hit the ball with your paddle to send it back toward your opponent.
 4. If your opponent misses, you score a point.
 
-![Pong](Pong_Game/Pong.png)   
+![Pong](Images/Pong.png)   
 
 ---
 
